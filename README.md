@@ -13,7 +13,7 @@
 <img src="https://github.com/GeoStat-Framework/GeoStat-Framework.github.io/raw/master/docs/source/pics/PyKrige_250.png" alt="PyKrige-LOGO" width="251px"/>
 </p>
 
-Kriging Toolkit for Python.
+Kriging Toolkit for Python. testing
 
 ## Purpose
 
